@@ -1,0 +1,14 @@
+folders:backend
+movies(frontend)
+
+
+BACKEND-installation:
+installation:
+npm i cors
+npm i experss
+npm install nodemon
+npm install router
+
+database username: krushna-dec
+password: kk123
+
